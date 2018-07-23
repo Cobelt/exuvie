@@ -1,6 +1,6 @@
 {
   "name": "exuvie",
-  "version": "0.0.0:1",
+  "version": "0.0.0",
   "description": "A not professional framework js for some prefect UIs.",
   "main": "dist/index.js",
   "module": "dist/index.js",
